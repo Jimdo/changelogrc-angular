@@ -1,0 +1,17 @@
+{
+  "name": "changelogrc-angular",
+  "version": "0.0.0",
+  "description": "changelogrc defaults for angular commit message style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "changelogrc",
+    "angular",
+    "conventional",
+    "changelog"
+  ],
+  "author": "Jimdo GmbH",
+  "license": "MIT"
+}
