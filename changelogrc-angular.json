@@ -1,4 +1,8 @@
 {
+  "max-line-length": {
+    "head": 100,
+    "body": 100
+  },
   "types": [
     {
       "key": "feat",
